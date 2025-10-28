@@ -1,4 +1,5 @@
 MERN Stack Integration Project
+
 This is my MERN stack project integrating frontend (React + Vite) and backend (Node.js + Express + MongoDB).
 
 Features
